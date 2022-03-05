@@ -1,6 +1,6 @@
-### Hi, I'm Anderson Ângelo! 👋
+### Olá, me chamo Anderson Ângelo! 👋
 
-- 🌱 I'm studying typeScript, reactJS, styled components and among other technologies.
+- 🌱 Estudo typeScript, reactJS, styled components e ooutras tecnologias.
 
 <div align="center">
   <a href="https://github.com/AndersonAngelo">
